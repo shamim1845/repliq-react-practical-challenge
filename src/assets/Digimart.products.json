@@ -1,0 +1,4757 @@
+[{
+  "_id": {
+    "$oid": "6512a214c7c8405dc85d9bc3"
+  },
+  "name": "Clementines ",
+  "description": "<p>clementine is a tangor, a citrus fruit hybrid between a willow-leaf mandarin orange and a sweet orange, named for its late 19th-century discoverer. The exterior is a deep orange color with a smooth, glossy appearance.</p>",
+  "price": 2.5,
+  "images": [
+    {
+      "public_id": "digimart/products/clementines_h74qrp (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695719955/digimart/products/clementines_h74qrp%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a214c7c8405dc85d9bc4"
+      }
+    },
+    {
+      "public_id": "digimart/products/Clementines-2 (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695719955/digimart/products/Clementines-2%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a214c7c8405dc85d9bc5"
+      }
+    },
+    {
+      "public_id": "digimart/products/Clementines (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695719954/digimart/products/Clementines%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a214c7c8405dc85d9bc6"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a031c7c8405dc85d9b5f"
+      },
+      "category_slug": "fruits-and-vegetables",
+      "_id": {
+        "$oid": "6512a214c7c8405dc85d9bc8"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a082c7c8405dc85d9b74"
+      },
+      "category_slug": "fruits",
+      "_id": {
+        "$oid": "6512a214c7c8405dc85d9bc9"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 24,
+  "totalReviews": 1,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 1,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 2,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [
+    {
+      "userId": {
+        "$oid": "65124f936d6d09316d8d9457"
+      },
+      "name": "Md Shamim Hossain",
+      "rating": 2,
+      "comment": "product review comment2",
+      "images": [
+        {
+          "public_id": "fdd",
+          "url": "https://static-01.daraz.com.bd/p/00340acdefd218176fe52d9437e85086.jpg_720x720.jpg_.webp",
+          "_id": {
+            "$oid": "6526d624229b22287edcbf69"
+          }
+        },
+        {
+          "public_id": "fdd",
+          "url": "https://static-01.daraz.com.bd/p/00340acdefd218176fe52d9437e85086.jpg_720x720.jpg_.webp",
+          "_id": {
+            "$oid": "6526d624229b22287edcbf6a"
+          }
+        },
+        {
+          "public_id": "fdd",
+          "url": "https://static-01.daraz.com.bd/p/00340acdefd218176fe52d9437e85086.jpg_720x720.jpg_.webp",
+          "_id": {
+            "$oid": "6526d624229b22287edcbf6b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6526d5d3229b22287edcbf58"
+      },
+      "reviewedAt": {
+        "$date": "2023-10-11T17:05:23.400Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-26T09:19:16.115Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T15:41:20.349Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6512a2e5c7c8405dc85d9c6d"
+  },
+  "name": "Baby Spinach",
+  "description": "<p>Spinach (Spinacia oleracea) is a leafy green flowering plant native to central and western Asia. It is of the order Caryophyllales, family Amaranthaceae, subfamily Chenopodioideae. Its leaves are a common edible vegetable consumed either fresh.</p><p><br></p>",
+  "price": 0.6,
+  "images": [
+    {
+      "public_id": "digimart/products/BabySpinach_xronqz (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720164/digimart/products/BabySpinach_xronqz%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a2e5c7c8405dc85d9c6e"
+      }
+    },
+    {
+      "public_id": "digimart/products/baby-spinach (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720163/digimart/products/baby-spinach%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a2e5c7c8405dc85d9c6f"
+      }
+    },
+    {
+      "public_id": "digimart/products/baby-spinach-2 (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720163/digimart/products/baby-spinach-2%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a2e5c7c8405dc85d9c70"
+      }
+    },
+    {
+      "public_id": "digimart/products/baby-spinach-1 (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720163/digimart/products/baby-spinach-1%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a2e5c7c8405dc85d9c71"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a031c7c8405dc85d9b5f"
+      },
+      "category_slug": "fruits-and-vegetables",
+      "_id": {
+        "$oid": "6512a2e5c7c8405dc85d9c72"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a0a2c7c8405dc85d9b80"
+      },
+      "category_slug": "vegetables",
+      "_id": {
+        "$oid": "6512a2e5c7c8405dc85d9c73"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 90,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T09:22:45.475Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-30T15:27:20.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512a330c7c8405dc85d9c8a"
+  },
+  "name": "Blueberries",
+  "description": "<p>Blueberries are perennial flowering plants with blue or purple berries. They are classified in the section Cyanococcus within the genus Vaccinium. Vaccinium also includes cranberries, bilberries, huckleberries, and Madeira blueberries. Commercial blueberries—both wild and cultivated —are all native to North America.</p><p><br></p>",
+  "price": 3,
+  "images": [
+    {
+      "public_id": "digimart/products/blueberries_relyfn",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720239/digimart/products/blueberries_relyfn.webp",
+      "_id": {
+        "$oid": "6512a330c7c8405dc85d9c8b"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bluberries",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720239/digimart/products/Bluberries.webp",
+      "_id": {
+        "$oid": "6512a330c7c8405dc85d9c8c"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bluberries-2",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720239/digimart/products/Bluberries-2.webp",
+      "_id": {
+        "$oid": "6512a330c7c8405dc85d9c8d"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a031c7c8405dc85d9b5f"
+      },
+      "category_slug": "fruits-and-vegetables",
+      "_id": {
+        "$oid": "6512a330c7c8405dc85d9c8e"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a082c7c8405dc85d9b74"
+      },
+      "category_slug": "fruits",
+      "_id": {
+        "$oid": "6512a330c7c8405dc85d9c8f"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 34,
+  "totalReviews": 1,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 1
+  },
+  "avgRating": 5,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [
+    {
+      "userId": {
+        "$oid": "655dbed308d9c2384d8d7957"
+      },
+      "name": "Demo User",
+      "rating": 5,
+      "comment": "awesome",
+      "images": [
+        {
+          "public_id": "digimart/reviews/blueberries_relyfn",
+          "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1700649230/digimart/reviews/blueberries_relyfn.webp",
+          "_id": {
+            "$oid": "655dd90f94094c17252f1383"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "655dc68a1f1a59d323632b32"
+      },
+      "reviewedAt": {
+        "$date": "2023-11-22T09:14:50.138Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-26T09:24:00.291Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T10:33:51.474Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6512a380c7c8405dc85d9cab"
+  },
+  "name": "Brussels Sprout",
+  "description": "<p>The Brussels sprout is a member of the Gemmifera Group of cabbages, grown for its edible buds. The leaf vegetables are typically 1.5–4.0 cm in diameter and look like miniature cabbages. The Brussels sprout has long been popular in Brussels, Belgium, and may have gained its name there.</p><p><br></p>",
+  "price": 3,
+  "images": [
+    {
+      "public_id": "digimart/products/BrusselsSprouts_adwhet (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720318/digimart/products/BrusselsSprouts_adwhet%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a380c7c8405dc85d9cac"
+      }
+    },
+    {
+      "public_id": "digimart/products/Brussels-Sprout (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720318/digimart/products/Brussels-Sprout%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a380c7c8405dc85d9cad"
+      }
+    },
+    {
+      "public_id": "digimart/products/Brussels-Sprout-2 (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720318/digimart/products/Brussels-Sprout-2%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a380c7c8405dc85d9cae"
+      }
+    },
+    {
+      "public_id": "digimart/products/Brussels-Sprout-1 (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720319/digimart/products/Brussels-Sprout-1%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a380c7c8405dc85d9caf"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a031c7c8405dc85d9b5f"
+      },
+      "category_slug": "fruits-and-vegetables",
+      "_id": {
+        "$oid": "6512a380c7c8405dc85d9cb0"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a0a2c7c8405dc85d9b80"
+      },
+      "category_slug": "vegetables",
+      "_id": {
+        "$oid": "6512a380c7c8405dc85d9cb1"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 9,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T09:25:20.156Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-30T15:27:05.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512a3cdc7c8405dc85d9cd3"
+  },
+  "name": "Celery Stick",
+  "description": "<p>celery stick - celery stalks cut into small sticks. crudites - raw vegetables cut into bite-sized strips and served with a dip. celery - stalks are eaten raw or cooked or used as a seasoning.</p><p><br></p>",
+  "price": 5,
+  "images": [
+    {
+      "public_id": "digimart/products/CelerySticks_ulljfz",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720395/digimart/products/CelerySticks_ulljfz.webp",
+      "_id": {
+        "$oid": "6512a3cdc7c8405dc85d9cd4"
+      }
+    },
+    {
+      "public_id": "digimart/products/Celery-Stick",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720395/digimart/products/Celery-Stick.webp",
+      "_id": {
+        "$oid": "6512a3cdc7c8405dc85d9cd5"
+      }
+    },
+    {
+      "public_id": "digimart/products/Celery-Stick-2",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720396/digimart/products/Celery-Stick-2.webp",
+      "_id": {
+        "$oid": "6512a3cdc7c8405dc85d9cd6"
+      }
+    },
+    {
+      "public_id": "digimart/products/Celery-Stick-1",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720395/digimart/products/Celery-Stick-1.webp",
+      "_id": {
+        "$oid": "6512a3cdc7c8405dc85d9cd7"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a031c7c8405dc85d9b5f"
+      },
+      "category_slug": "fruits-and-vegetables",
+      "_id": {
+        "$oid": "6512a3cdc7c8405dc85d9cd8"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a0a2c7c8405dc85d9b80"
+      },
+      "category_slug": "vegetables",
+      "_id": {
+        "$oid": "6512a3cdc7c8405dc85d9cd9"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 34,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T09:26:37.477Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-30T15:27:06.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512a417c7c8405dc85d9d01"
+  },
+  "name": "Sweet Corn",
+  "description": "<p>Maize, also known as corn, is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10,000 years ago. The leafy stalk of the plant produces pollen inflorescences and separate ovuliferous inflorescences called ears that yield kernels or seeds, which are fruits.</p><p><br></p>",
+  "price": 4,
+  "images": [
+    {
+      "public_id": "digimart/products/Corn_dlrtbv (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720470/digimart/products/Corn_dlrtbv%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a417c7c8405dc85d9d02"
+      }
+    },
+    {
+      "public_id": "digimart/products/Sweet-Corn (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720470/digimart/products/Sweet-Corn%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a417c7c8405dc85d9d03"
+      }
+    },
+    {
+      "public_id": "digimart/products/Sweet-Corn-2 (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720469/digimart/products/Sweet-Corn-2%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a417c7c8405dc85d9d04"
+      }
+    },
+    {
+      "public_id": "digimart/products/Sweet-Corn-1 (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720470/digimart/products/Sweet-Corn-1%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a417c7c8405dc85d9d05"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a031c7c8405dc85d9b5f"
+      },
+      "category_slug": "fruits-and-vegetables",
+      "_id": {
+        "$oid": "6512a417c7c8405dc85d9d06"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a0a2c7c8405dc85d9b80"
+      },
+      "category_slug": "vegetables",
+      "_id": {
+        "$oid": "6512a417c7c8405dc85d9d07"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 41,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T09:27:51.339Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-30T15:27:06.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512a499c7c8405dc85d9d82"
+  },
+  "name": "Cucumber",
+  "description": "<p>Cucumber is a widely cultivated plant in the gourd family, Cucurbitaceae. It is a creeping vine that bears cucumiform fruits that are used as vegetables. There are three main varieties of cucumber: slicing, pickling, and seedless. Within these varieties, several cultivars have been created.</p><p><br></p>",
+  "price": 2.5,
+  "images": [
+    {
+      "public_id": "digimart/products/Cucumber_w6hlxr",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720599/digimart/products/Cucumber_w6hlxr.webp",
+      "_id": {
+        "$oid": "6512a499c7c8405dc85d9d83"
+      }
+    },
+    {
+      "public_id": "digimart/products/Cucumber",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720599/digimart/products/Cucumber.webp",
+      "_id": {
+        "$oid": "6512a499c7c8405dc85d9d84"
+      }
+    },
+    {
+      "public_id": "digimart/products/Cucumber-2",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720599/digimart/products/Cucumber-2.webp",
+      "_id": {
+        "$oid": "6512a499c7c8405dc85d9d85"
+      }
+    },
+    {
+      "public_id": "digimart/products/Cucumber-1",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720599/digimart/products/Cucumber-1.webp",
+      "_id": {
+        "$oid": "6512a499c7c8405dc85d9d86"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a031c7c8405dc85d9b5f"
+      },
+      "category_slug": "fruits-and-vegetables",
+      "_id": {
+        "$oid": "6512a499c7c8405dc85d9d87"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a0a2c7c8405dc85d9b80"
+      },
+      "category_slug": "vegetables",
+      "_id": {
+        "$oid": "6512a499c7c8405dc85d9d88"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 17,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T09:30:01.404Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-30T15:27:05.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512a4f9c7c8405dc85d9dbc"
+  },
+  "name": "Dates",
+  "description": "<p>Phoenix dactylifera, commonly known as date or date palm, is a flowering plant species in the palm family, Arecaceae, cultivated for its edible sweet fruit.</p><p><br></p>",
+  "price": 8,
+  "images": [
+    {
+      "public_id": "digimart/products/Dates_pq4oad",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720694/digimart/products/Dates_pq4oad.webp",
+      "_id": {
+        "$oid": "6512a4f9c7c8405dc85d9dbd"
+      }
+    },
+    {
+      "public_id": "digimart/products/Dates",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720694/digimart/products/Dates.webp",
+      "_id": {
+        "$oid": "6512a4f9c7c8405dc85d9dbe"
+      }
+    },
+    {
+      "public_id": "digimart/products/Dates-2",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720694/digimart/products/Dates-2.webp",
+      "_id": {
+        "$oid": "6512a4f9c7c8405dc85d9dbf"
+      }
+    },
+    {
+      "public_id": "digimart/products/Dates-1",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720693/digimart/products/Dates-1.webp",
+      "_id": {
+        "$oid": "6512a4f9c7c8405dc85d9dc0"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a031c7c8405dc85d9b5f"
+      },
+      "category_slug": "fruits-and-vegetables",
+      "_id": {
+        "$oid": "6512a4f9c7c8405dc85d9dc1"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a082c7c8405dc85d9b74"
+      },
+      "category_slug": "fruits",
+      "_id": {
+        "$oid": "6512a4f9c7c8405dc85d9dc2"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 70,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T09:31:37.230Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T09:31:37.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512a53ec7c8405dc85d9dfc"
+  },
+  "name": "Mango",
+  "description": "<p>A mango is a juicy stone fruit produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for their edible fruit. Most of these species are found in nature as wild mangoes. The genus belongs to the cashew family Anacardiaceae.</p><p><br></p>",
+  "price": 2.5,
+  "images": [
+    {
+      "public_id": "digimart/products/Mangoes",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720766/digimart/products/Mangoes.webp",
+      "_id": {
+        "$oid": "6512a53ec7c8405dc85d9dfd"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a031c7c8405dc85d9b5f"
+      },
+      "category_slug": "fruits-and-vegetables",
+      "_id": {
+        "$oid": "6512a53ec7c8405dc85d9dfe"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a082c7c8405dc85d9b74"
+      },
+      "category_slug": "fruits",
+      "_id": {
+        "$oid": "6512a53ec7c8405dc85d9dff"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 200,
+  "totalReviews": 2,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 1,
+    "rating4": 0,
+    "rating5": 1
+  },
+  "avgRating": 4,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [
+    {
+      "userId": {
+        "$oid": "65124f936d6d09316d8d9457"
+      },
+      "name": "Md Shamim Hossain",
+      "rating": 3,
+      "comment": "fiest review",
+      "images": [
+        {
+          "public_id": "digimart/reviews/imgonline-com-ua-resize-WJDZqy8cl3 (1)",
+          "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1697046978/digimart/reviews/imgonline-com-ua-resize-WJDZqy8cl3%20%281%29.jpg",
+          "_id": {
+            "$oid": "6526e1f6229b22287edcc22b"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "6526e1f6229b22287edcc22a"
+      },
+      "reviewedAt": {
+        "$date": "2023-10-11T17:57:10.279Z"
+      }
+    },
+    {
+      "userId": {
+        "$oid": "655dbed308d9c2384d8d7957"
+      },
+      "name": "Demo User",
+      "rating": 5,
+      "comment": "Sweet Mango",
+      "images": [
+        {
+          "public_id": "digimart/reviews/Mangoes",
+          "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1700645303/digimart/reviews/Mangoes.webp",
+          "_id": {
+            "$oid": "655dd3781f1a59d323633123"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "655dc9b81f1a59d323632c75"
+      },
+      "reviewedAt": {
+        "$date": "2023-11-22T09:28:24.023Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-26T09:32:46.973Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T10:10:34.193Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "6512a574c7c8405dc85d9e3c"
+  },
+  "name": "Pepper",
+  "description": "<p>Black pepper is a flowering vine in the family Piperaceae, cultivated for its fruit, known as a peppercorn, which is usually dried and used as a spice and seasoning. When fresh and fully mature, it is about 5 mm in diameter and dark red, and contains a single seed, like all drupes</p><p><br></p>",
+  "price": 5,
+  "images": [
+    {
+      "public_id": "digimart/products/MiniPeppers (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720819/digimart/products/MiniPeppers%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a574c7c8405dc85d9e3d"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a031c7c8405dc85d9b5f"
+      },
+      "category_slug": "fruits-and-vegetables",
+      "_id": {
+        "$oid": "6512a574c7c8405dc85d9e3e"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a0a2c7c8405dc85d9b80"
+      },
+      "category_slug": "vegetables",
+      "_id": {
+        "$oid": "6512a574c7c8405dc85d9e3f"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 50,
+  "totalReviews": 1,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 1,
+    "rating5": 0
+  },
+  "avgRating": 4,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [
+    {
+      "userId": {
+        "$oid": "655dbed308d9c2384d8d7957"
+      },
+      "name": "Demo User",
+      "rating": 4,
+      "comment": "awesome",
+      "images": [
+        {
+          "public_id": "digimart/reviews/Mangoes",
+          "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1700645303/digimart/reviews/Mangoes.webp",
+          "_id": {
+            "$oid": "655dd6101f1a59d323633c39"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "655dd6101f1a59d323633c38"
+      },
+      "reviewedAt": {
+        "$date": "2023-11-22T10:21:04.267Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-26T09:33:40.321Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T10:21:04.268Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6512a5adc7c8405dc85d9e7f"
+  },
+  "name": "Strawberry",
+  "description": "<p>The garden strawberry is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries, which are cultivated worldwide for their fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness.</p><p><br></p>",
+  "price": 8,
+  "images": [
+    {
+      "public_id": "digimart/products/strawberry (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695720876/digimart/products/strawberry%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a5adc7c8405dc85d9e80"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a031c7c8405dc85d9b5f"
+      },
+      "category_slug": "fruits-and-vegetables",
+      "_id": {
+        "$oid": "6512a5adc7c8405dc85d9e81"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a082c7c8405dc85d9b74"
+      },
+      "category_slug": "fruits",
+      "_id": {
+        "$oid": "6512a5adc7c8405dc85d9e82"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 150,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T09:34:37.526Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T09:34:37.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512a711c7c8405dc85d9fc5"
+  },
+  "name": "Mango Self Striped A Line Dress",
+  "description": "<p>Off-White self-striped knitted midi A-line dress, has a scoop neck, sleeveless, straight hem</p><p><br></p>",
+  "price": 300,
+  "images": [
+    {
+      "public_id": "digimart/products/mango (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695721232/digimart/products/mango%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a711c7c8405dc85d9fc6"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a66bc7c8405dc85d9f99"
+      },
+      "category_slug": "fashion",
+      "_id": {
+        "$oid": "6512a711c7c8405dc85d9fc7"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a6b0c7c8405dc85d9fb6"
+      },
+      "category_slug": "women",
+      "_id": {
+        "$oid": "6512a711c7c8405dc85d9fc8"
+      }
+    }
+  ],
+  "brand": "Clothing Shop",
+  "stock": 50,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T09:40:33.199Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T09:40:33.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512a786c7c8405dc85da071"
+  },
+  "name": "Forever 21 Solid Bodycon Midi Dress",
+  "description": "<p>Grey solid woven bodycon dress has a round neck, sleeveless, straight hem</p><p>Grey solid woven bodycon dress has a round neck, sleeveless, straight hem</p><p>Grey solid woven bodycon dress has a round neck, sleeveless, straight hem</p><p>Grey solid woven bodycon dress has a round neck, sleeveless, straight hem</p><p>Grey solid woven bodycon dress has a round neck, sleeveless, straight hem</p><p><br></p>",
+  "price": 350,
+  "images": [
+    {
+      "public_id": "digimart/products/FOREVER_21 (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695721349/digimart/products/FOREVER_21%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a786c7c8405dc85da072"
+      }
+    },
+    {
+      "public_id": "digimart/products/Striped-Dress (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695721348/digimart/products/Striped-Dress%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a786c7c8405dc85da073"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a66bc7c8405dc85d9f99"
+      },
+      "category_slug": "fashion",
+      "_id": {
+        "$oid": "6512a786c7c8405dc85da074"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a6b0c7c8405dc85d9fb6"
+      },
+      "category_slug": "women",
+      "_id": {
+        "$oid": "6512a786c7c8405dc85da075"
+      }
+    }
+  ],
+  "brand": "Clothing Shop",
+  "stock": 100,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T09:42:30.502Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T09:42:30.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512a85fc7c8405dc85da142"
+  },
+  "name": "Fold Over Collar Plain Blazers",
+  "description": "<p>Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining</p><p><br></p>",
+  "price": 400,
+  "images": [
+    {
+      "public_id": "digimart/products/Fold_over (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695721565/digimart/products/Fold_over%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a85fc7c8405dc85da143"
+      }
+    },
+    {
+      "public_id": "digimart/products/Plain-Blazers-5 (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695721565/digimart/products/Plain-Blazers-5%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a85fc7c8405dc85da144"
+      }
+    },
+    {
+      "public_id": "digimart/products/Plain-Blazers-4 (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695721565/digimart/products/Plain-Blazers-4%20%281%29.webp",
+      "_id": {
+        "$oid": "6512a85fc7c8405dc85da145"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a66bc7c8405dc85d9f99"
+      },
+      "category_slug": "fashion",
+      "_id": {
+        "$oid": "6512a85fc7c8405dc85da146"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a6b0c7c8405dc85d9fb6"
+      },
+      "category_slug": "women",
+      "_id": {
+        "$oid": "6512a85fc7c8405dc85da147"
+      }
+    }
+  ],
+  "brand": "Clothing Shop",
+  "stock": 200,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T09:46:07.313Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T09:46:07.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b5fdc7c8405dc85da379"
+  },
+  "name": "Fred Perry Taped Sports Jacket In Wine",
+  "description": "<p>Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining</p><p><br></p>",
+  "price": 84,
+  "images": [
+    {
+      "public_id": "digimart/products/Bluebird_M_AlpineStartJacket",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725052/digimart/products/Bluebird_M_AlpineStartJacket.webp",
+      "_id": {
+        "$oid": "6512b5fdc7c8405dc85da37a"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a66bc7c8405dc85d9f99"
+      },
+      "category_slug": "fashion",
+      "_id": {
+        "$oid": "6512b5fdc7c8405dc85da37b"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a69cc7c8405dc85d9fa7"
+      },
+      "category_slug": "men",
+      "_id": {
+        "$oid": "6512b5fdc7c8405dc85da37c"
+      }
+    }
+  ],
+  "brand": "Clothing Shop",
+  "stock": 24,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T10:44:13.304Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T10:44:13.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b653c7c8405dc85da3d3"
+  },
+  "name": "Fred Perry Taped Sports Jacket",
+  "description": "<p>Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining</p><p><br></p>",
+  "price": 100,
+  "images": [
+    {
+      "public_id": "digimart/products/Fred_perry_taped_sports_jacket_in_wine",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725139/digimart/products/Fred_perry_taped_sports_jacket_in_wine.webp",
+      "_id": {
+        "$oid": "6512b653c7c8405dc85da3d4"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a66bc7c8405dc85d9f99"
+      },
+      "category_slug": "fashion",
+      "_id": {
+        "$oid": "6512b653c7c8405dc85da3d5"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a69cc7c8405dc85d9fa7"
+      },
+      "category_slug": "men",
+      "_id": {
+        "$oid": "6512b653c7c8405dc85da3d6"
+      }
+    }
+  ],
+  "brand": "Clothing Shop",
+  "stock": 100,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T10:45:39.963Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T10:45:39.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b6dac7c8405dc85da430"
+  },
+  "name": "Loap Infery Kids Winter Jacket",
+  "description": "<p>Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining</p><p><br></p>",
+  "price": 60,
+  "images": [
+    {
+      "public_id": "digimart/products/Loap_infery_kids_winter_jacket_blue_gray",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725274/digimart/products/Loap_infery_kids_winter_jacket_blue_gray.webp",
+      "_id": {
+        "$oid": "6512b6dac7c8405dc85da431"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a66bc7c8405dc85d9f99"
+      },
+      "category_slug": "fashion",
+      "_id": {
+        "$oid": "6512b6dac7c8405dc85da432"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a69cc7c8405dc85d9fa7"
+      },
+      "category_slug": "men",
+      "_id": {
+        "$oid": "6512b6dac7c8405dc85da433"
+      }
+    }
+  ],
+  "brand": "Clothing Shop",
+  "stock": 200,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T10:47:54.862Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T10:47:54.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b71ec7c8405dc85da490"
+  },
+  "name": "Fred Perry Taped Sports Jacket Navy",
+  "description": "<p>Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining</p><p><br></p>",
+  "price": 85,
+  "images": [
+    {
+      "public_id": "digimart/products/Fred_perry_tipped_brentham_jacket_in_navy",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725341/digimart/products/Fred_perry_tipped_brentham_jacket_in_navy.webp",
+      "_id": {
+        "$oid": "6512b71ec7c8405dc85da491"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a66bc7c8405dc85d9f99"
+      },
+      "category_slug": "fashion",
+      "_id": {
+        "$oid": "6512b71ec7c8405dc85da492"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a69cc7c8405dc85d9fa7"
+      },
+      "category_slug": "men",
+      "_id": {
+        "$oid": "6512b71ec7c8405dc85da493"
+      }
+    }
+  ],
+  "brand": "Clothing Shop",
+  "stock": 115,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T10:49:02.316Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-30T14:29:26.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b75bc7c8405dc85da4f3"
+  },
+  "name": "Roadster Polar Fleece Jacket",
+  "description": "<p>Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining</p><p><br></p>",
+  "price": 120,
+  "images": [
+    {
+      "public_id": "digimart/products/Roadster_Polar_fleece_jacket",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725403/digimart/products/Roadster_Polar_fleece_jacket.webp",
+      "_id": {
+        "$oid": "6512b75bc7c8405dc85da4f4"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a66bc7c8405dc85d9f99"
+      },
+      "category_slug": "fashion",
+      "_id": {
+        "$oid": "6512b75bc7c8405dc85da4f5"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a69cc7c8405dc85d9fa7"
+      },
+      "category_slug": "men",
+      "_id": {
+        "$oid": "6512b75bc7c8405dc85da4f6"
+      }
+    }
+  ],
+  "brand": "Clothing Shop",
+  "stock": 50,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T10:50:03.822Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T10:50:03.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b792c7c8405dc85da556"
+  },
+  "name": "Roadster Polar Fleece Jacket",
+  "description": "<p>Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining</p><p><br></p>",
+  "price": 94,
+  "images": [
+    {
+      "public_id": "digimart/products/Montane_womens_phoenix_jacket",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725458/digimart/products/Montane_womens_phoenix_jacket.webp",
+      "_id": {
+        "$oid": "6512b792c7c8405dc85da557"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a66bc7c8405dc85d9f99"
+      },
+      "category_slug": "fashion",
+      "_id": {
+        "$oid": "6512b792c7c8405dc85da558"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a69cc7c8405dc85d9fa7"
+      },
+      "category_slug": "men",
+      "_id": {
+        "$oid": "6512b792c7c8405dc85da559"
+      }
+    }
+  ],
+  "brand": "Clothing Shop",
+  "stock": 56,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T10:50:58.676Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T10:50:58.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b7d5c7c8405dc85da5c1"
+  },
+  "name": "Score Lazio Red",
+  "description": "<p>Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining</p><p><br></p>",
+  "price": 70,
+  "images": [
+    {
+      "public_id": "digimart/products/Score_lazio_red",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725524/digimart/products/Score_lazio_red.webp",
+      "_id": {
+        "$oid": "6512b7d5c7c8405dc85da5c2"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512a66bc7c8405dc85d9f99"
+      },
+      "category_slug": "fashion",
+      "_id": {
+        "$oid": "6512b7d5c7c8405dc85da5c3"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512a69cc7c8405dc85d9fa7"
+      },
+      "category_slug": "men",
+      "_id": {
+        "$oid": "6512b7d5c7c8405dc85da5c4"
+      }
+    }
+  ],
+  "brand": "Clothing Shop",
+  "stock": 40,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T10:52:05.642Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T10:52:05.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b87fc7c8405dc85da76d"
+  },
+  "name": "Ash Double Bed",
+  "description": "<p>A bed is a piece of furniture which is used as a place to sleep or relax.</p><p><br></p>",
+  "price": 250,
+  "images": [
+    {
+      "public_id": "digimart/products/Ash (2)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725694/digimart/products/Ash%20%282%29.webp",
+      "_id": {
+        "$oid": "6512b87fc7c8405dc85da76e"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-6 (2)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725694/digimart/products/Bed-6%20%282%29.webp",
+      "_id": {
+        "$oid": "6512b87fc7c8405dc85da76f"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-5 (2)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725694/digimart/products/Bed-5%20%282%29.webp",
+      "_id": {
+        "$oid": "6512b87fc7c8405dc85da770"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-4 (2)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725694/digimart/products/Bed-4%20%282%29.webp",
+      "_id": {
+        "$oid": "6512b87fc7c8405dc85da771"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512b87fc7c8405dc85da772"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "651295dac7c8405dc85d9b48"
+      },
+      "category_slug": "bed",
+      "_id": {
+        "$oid": "6512b87fc7c8405dc85da773"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 25,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T10:54:55.355Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-30T14:33:08.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b8c3c7c8405dc85da7d3"
+  },
+  "name": "Brown Hardwood Double Bed",
+  "description": "<p>A bed is a piece of furniture which is used as a place to sleep or relax.</p><p><br></p>",
+  "price": 220,
+  "images": [
+    {
+      "public_id": "digimart/products/Hardwoods (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725762/digimart/products/Hardwoods%20%281%29.webp",
+      "_id": {
+        "$oid": "6512b8c3c7c8405dc85da7d4"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-3 (2)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725762/digimart/products/Bed-3%20%282%29.webp",
+      "_id": {
+        "$oid": "6512b8c3c7c8405dc85da7d5"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-2 (2)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725762/digimart/products/Bed-2%20%282%29.webp",
+      "_id": {
+        "$oid": "6512b8c3c7c8405dc85da7d6"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-1 (2)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725761/digimart/products/Bed-1%20%282%29.webp",
+      "_id": {
+        "$oid": "6512b8c3c7c8405dc85da7d7"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512b8c3c7c8405dc85da7d8"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "651295dac7c8405dc85d9b48"
+      },
+      "category_slug": "bed",
+      "_id": {
+        "$oid": "6512b8c3c7c8405dc85da7d9"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 30,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T10:56:03.440Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T10:56:03.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b915c7c8405dc85da839"
+  },
+  "name": "Deluxe Mahagony Double Bed",
+  "description": "<p>A bed is a piece of furniture which is used as a place to sleep or relax.</p><p><br></p>",
+  "price": 300,
+  "images": [
+    {
+      "public_id": "digimart/products/Mahogany (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725841/digimart/products/Mahogany%20%281%29.webp",
+      "_id": {
+        "$oid": "6512b915c7c8405dc85da83a"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-3 (3)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725841/digimart/products/Bed-3%20%283%29.webp",
+      "_id": {
+        "$oid": "6512b915c7c8405dc85da83b"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-2 (3)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725845/digimart/products/Bed-2%20%283%29.webp",
+      "_id": {
+        "$oid": "6512b915c7c8405dc85da83c"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-1 (3)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725841/digimart/products/Bed-1%20%283%29.webp",
+      "_id": {
+        "$oid": "6512b915c7c8405dc85da83d"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512b915c7c8405dc85da83e"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "651295dac7c8405dc85d9b48"
+      },
+      "category_slug": "bed",
+      "_id": {
+        "$oid": "6512b915c7c8405dc85da83f"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 60,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T10:57:25.537Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T10:57:25.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b973c7c8405dc85da8bc"
+  },
+  "name": "Vince Ottoman Double Bed",
+  "description": "<p>A bed is a piece of furniture which is used as a place to sleep or relax.</p><p><br></p>",
+  "price": 280,
+  "images": [
+    {
+      "public_id": "digimart/products/Beech",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725938/digimart/products/Beech.webp",
+      "_id": {
+        "$oid": "6512b973c7c8405dc85da8bd"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-3 (4)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725938/digimart/products/Bed-3%20%284%29.webp",
+      "_id": {
+        "$oid": "6512b973c7c8405dc85da8be"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-2 (4)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725935/digimart/products/Bed-2%20%284%29.webp",
+      "_id": {
+        "$oid": "6512b973c7c8405dc85da8bf"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-1 (4)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695725935/digimart/products/Bed-1%20%284%29.webp",
+      "_id": {
+        "$oid": "6512b973c7c8405dc85da8c0"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512b973c7c8405dc85da8c1"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "651295dac7c8405dc85d9b48"
+      },
+      "category_slug": "bed",
+      "_id": {
+        "$oid": "6512b973c7c8405dc85da8c2"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 99,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T10:58:59.364Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T10:58:59.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512b9b4c7c8405dc85da922"
+  },
+  "name": "Elm Single Bed",
+  "description": "<p>A bed is a piece of furniture which is used as a place to sleep or relax.</p><p><br></p>",
+  "price": 340,
+  "images": [
+    {
+      "public_id": "digimart/products/Bed-2 (5)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726001/digimart/products/Bed-2%20%285%29.webp",
+      "_id": {
+        "$oid": "6512b9b4c7c8405dc85da923"
+      }
+    },
+    {
+      "public_id": "digimart/products/Bed-6 (3)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726001/digimart/products/Bed-6%20%283%29.webp",
+      "_id": {
+        "$oid": "6512b9b4c7c8405dc85da924"
+      }
+    },
+    {
+      "public_id": "digimart/products/bed-7",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726003/digimart/products/bed-7.webp",
+      "_id": {
+        "$oid": "6512b9b4c7c8405dc85da925"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512b9b4c7c8405dc85da926"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "651295dac7c8405dc85d9b48"
+      },
+      "category_slug": "bed",
+      "_id": {
+        "$oid": "6512b9b4c7c8405dc85da927"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 70,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:00:04.604Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:00:04.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512ba0dc7c8405dc85da9af"
+  },
+  "name": "Hattie Single Bed",
+  "description": "<p>A bed is a piece of furniture which is used as a place to sleep or relax.</p><p><br></p>",
+  "price": 260,
+  "images": [
+    {
+      "public_id": "digimart/products/hattie_single",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726092/digimart/products/hattie_single.webp",
+      "_id": {
+        "$oid": "6512ba0dc7c8405dc85da9b0"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512ba0dc7c8405dc85da9b1"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "651295dac7c8405dc85d9b48"
+      },
+      "category_slug": "bed",
+      "_id": {
+        "$oid": "6512ba0dc7c8405dc85da9b2"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 70,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:01:33.747Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:01:33.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512ba41c7c8405dc85daa12"
+  },
+  "name": "White Cozy Chair",
+  "description": "<p>One of the basic pieces of furniture, a chair is a type of seat.</p>",
+  "price": 160,
+  "images": [
+    {
+      "public_id": "digimart/products/White (1)",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726145/digimart/products/White%20%281%29.webp",
+      "_id": {
+        "$oid": "6512ba41c7c8405dc85daa13"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512c6bcc7c8405dc85dc1cc"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c646c7c8405dc85dbf5d"
+      },
+      "category_slug": "sofa",
+      "_id": {
+        "$oid": "6512c6bcc7c8405dc85dc1cd"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 15,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:02:25.609Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:55:40.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512ba7bc7c8405dc85daa75"
+  },
+  "name": "Castlery Double Sofa",
+  "description": "<p>a piece of furniture, also called a couch</p><p>a piece of furniture, also called a couch</p>",
+  "price": 620,
+  "images": [
+    {
+      "public_id": "digimart/products/Castlery_2Seater",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726203/digimart/products/Castlery_2Seater.webp",
+      "_id": {
+        "$oid": "6512ba7bc7c8405dc85daa76"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512c6b3c7c8405dc85dc174"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c646c7c8405dc85dbf5d"
+      },
+      "category_slug": "sofa",
+      "_id": {
+        "$oid": "6512c6b3c7c8405dc85dc175"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 110,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:03:23.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:55:31.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512bac1c7c8405dc85dab09"
+  },
+  "name": "Safari Ash Single Sofa",
+  "description": "<p>a piece of furniture, also called a couch</p><p>a piece of furniture, also called a couch</p>",
+  "price": 280,
+  "images": [
+    {
+      "public_id": "digimart/products/Safari",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726272/digimart/products/Safari.webp",
+      "_id": {
+        "$oid": "6512bac1c7c8405dc85dab0a"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512c6a8c7c8405dc85dc11c"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c646c7c8405dc85dbf5d"
+      },
+      "category_slug": "sofa",
+      "_id": {
+        "$oid": "6512c6a8c7c8405dc85dc11d"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 20,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:04:33.431Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:55:20.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512bc5fc7c8405dc85dad3e"
+  },
+  "name": "Attitude Bubble Bath",
+  "description": "<p>Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.</p>",
+  "price": 16,
+  "images": [
+    {
+      "public_id": "digimart/products/attitude_night_bubble_bath",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726686/digimart/products/attitude_night_bubble_bath.webp",
+      "_id": {
+        "$oid": "6512bc5fc7c8405dc85dad3f"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512bbfcc7c8405dc85dad1c"
+      },
+      "category_slug": "health-and-beauty",
+      "_id": {
+        "$oid": "6512bc5fc7c8405dc85dad40"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512bc16c7c8405dc85dad2d"
+      },
+      "category_slug": "bath",
+      "_id": {
+        "$oid": "6512bc5fc7c8405dc85dad41"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 60,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:11:27.512Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:11:27.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512bc9bc7c8405dc85dada1"
+  },
+  "name": "Aveeno Baby Shampoo",
+  "description": "<p>Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.</p>",
+  "price": 15,
+  "images": [
+    {
+      "public_id": "digimart/products/aveeno_baby_shampoo",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726746/digimart/products/aveeno_baby_shampoo.webp",
+      "_id": {
+        "$oid": "6512bc9bc7c8405dc85dada2"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512bbfcc7c8405dc85dad1c"
+      },
+      "category_slug": "health-and-beauty",
+      "_id": {
+        "$oid": "6512bc9bc7c8405dc85dada3"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512bc16c7c8405dc85dad2d"
+      },
+      "category_slug": "bath",
+      "_id": {
+        "$oid": "6512bc9bc7c8405dc85dada4"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 50,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:12:27.444Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:12:27.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512bcc7c7c8405dc85dae04"
+  },
+  "name": "Eo Body Lotion",
+  "description": "<p>Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.</p>",
+  "price": 15,
+  "images": [
+    {
+      "public_id": "digimart/products/eo_body_lotion",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726791/digimart/products/eo_body_lotion.webp",
+      "_id": {
+        "$oid": "6512bcc7c7c8405dc85dae05"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512bbfcc7c8405dc85dad1c"
+      },
+      "category_slug": "health-and-beauty",
+      "_id": {
+        "$oid": "6512bcc7c7c8405dc85dae06"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512bc16c7c8405dc85dad2d"
+      },
+      "category_slug": "bath",
+      "_id": {
+        "$oid": "6512bcc7c7c8405dc85dae07"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 100,
+  "totalReviews": 1,
+  "ratings": {
+    "rating1": 1,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 1,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [
+    {
+      "userId": {
+        "$oid": "65124f936d6d09316d8d9457"
+      },
+      "name": "Md Shamim Hossain",
+      "rating": 1,
+      "comment": "good product1",
+      "images": [],
+      "_id": {
+        "$oid": "6526e267229b22287edcc270"
+      },
+      "reviewedAt": {
+        "$date": "2023-10-11T17:59:03.214Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-26T11:13:11.995Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T18:37:31.687Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6512bd2cc7c8405dc85dae7c"
+  },
+  "name": "Gnc Aloe Vera Cream",
+  "description": "<p>Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.</p>",
+  "price": 20,
+  "images": [
+    {
+      "public_id": "digimart/products/gnc_aloe_vera_moisturizing_cream",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726891/digimart/products/gnc_aloe_vera_moisturizing_cream.webp",
+      "_id": {
+        "$oid": "6512bd2cc7c8405dc85dae7d"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512bbfcc7c8405dc85dad1c"
+      },
+      "category_slug": "health-and-beauty",
+      "_id": {
+        "$oid": "6512bd2cc7c8405dc85dae7e"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512bcedc7c8405dc85dae6b"
+      },
+      "category_slug": "cream",
+      "_id": {
+        "$oid": "6512bd2cc7c8405dc85dae7f"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 70,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:14:52.043Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:14:52.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512bd5fc7c8405dc85daedf"
+  },
+  "name": "Loreal Age Perfect Cream",
+  "description": "<p>Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.</p>",
+  "price": 15,
+  "images": [
+    {
+      "public_id": "digimart/products/loreal_paris_age_perfect",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726942/digimart/products/loreal_paris_age_perfect.webp",
+      "_id": {
+        "$oid": "6512bd5fc7c8405dc85daee0"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512bbfcc7c8405dc85dad1c"
+      },
+      "category_slug": "health-and-beauty",
+      "_id": {
+        "$oid": "6512bd5fc7c8405dc85daee1"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512bcedc7c8405dc85dae6b"
+      },
+      "category_slug": "cream",
+      "_id": {
+        "$oid": "6512bd5fc7c8405dc85daee2"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 99,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:15:43.342Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:15:43.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512bd91c7c8405dc85daf42"
+  },
+  "name": "Wasp Shiseido Cream",
+  "description": "<p>Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.</p>",
+  "price": 14,
+  "images": [
+    {
+      "public_id": "digimart/products/waso_shiseido_mega_hydrating_cream",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695726992/digimart/products/waso_shiseido_mega_hydrating_cream.webp",
+      "_id": {
+        "$oid": "6512bd91c7c8405dc85daf43"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512bbfcc7c8405dc85dad1c"
+      },
+      "category_slug": "health-and-beauty",
+      "_id": {
+        "$oid": "6512bd91c7c8405dc85daf44"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512bcedc7c8405dc85dae6b"
+      },
+      "category_slug": "cream",
+      "_id": {
+        "$oid": "6512bd91c7c8405dc85daf45"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 20,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:16:33.517Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:16:33.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512bdcbc7c8405dc85dafa5"
+  },
+  "name": "Gnc Women S Progesterone Cream",
+  "description": "<p>Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.</p>",
+  "price": 20,
+  "images": [
+    {
+      "public_id": "digimart/products/gnc_women's_progesterone_cream",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727050/digimart/products/gnc_women%27s_progesterone_cream.webp",
+      "_id": {
+        "$oid": "6512bdcbc7c8405dc85dafa6"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512bbfcc7c8405dc85dad1c"
+      },
+      "category_slug": "health-and-beauty",
+      "_id": {
+        "$oid": "6512bdcbc7c8405dc85dafa7"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512bcedc7c8405dc85dae6b"
+      },
+      "category_slug": "cream",
+      "_id": {
+        "$oid": "6512bdcbc7c8405dc85dafa8"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 40,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:17:31.489Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:17:31.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512bedfc7c8405dc85db0c7"
+  },
+  "name": "Face Replublic Sun Gel",
+  "description": "<p>The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.</p><p><br></p>",
+  "price": 20,
+  "images": [
+    {
+      "public_id": "digimart/products/face_republic_Sun_gel",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727326/digimart/products/face_republic_Sun_gel.webp",
+      "_id": {
+        "$oid": "6512bedfc7c8405dc85db0c8"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512bbfcc7c8405dc85dad1c"
+      },
+      "category_slug": "health-and-beauty",
+      "_id": {
+        "$oid": "6512bedfc7c8405dc85db0c9"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512be49c7c8405dc85db0b4"
+      },
+      "category_slug": "face-care",
+      "_id": {
+        "$oid": "6512bedfc7c8405dc85db0ca"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 50,
+  "totalReviews": 1,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 1
+  },
+  "avgRating": 5,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [
+    {
+      "userId": {
+        "$oid": "655dbed308d9c2384d8d7957"
+      },
+      "name": "Demo User",
+      "rating": 5,
+      "comment": "Good product",
+      "images": [
+        {
+          "public_id": "digimart/reviews/Screenshot from 2023-12-31 21-46-14",
+          "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1704037602/digimart/reviews/Screenshot%20from%202023-12-31%2021-46-14.png",
+          "_id": {
+            "$oid": "65918ce3c1c663234b5a57a3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65918ce3c1c663234b5a57a2"
+      },
+      "reviewedAt": {
+        "$date": "2023-12-31T15:46:43.043Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-26T11:22:07.703Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T15:46:43.045Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6512bf23c7c8405dc85db12a"
+  },
+  "name": "Frei Ol",
+  "description": "<p>The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.</p><p><br></p>",
+  "price": 10,
+  "images": [
+    {
+      "public_id": "digimart/products/frei_ol_urea2in1",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727395/digimart/products/frei_ol_urea2in1.webp",
+      "_id": {
+        "$oid": "6512bf23c7c8405dc85db12b"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512bbfcc7c8405dc85dad1c"
+      },
+      "category_slug": "health-and-beauty",
+      "_id": {
+        "$oid": "6512bf23c7c8405dc85db12c"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512be49c7c8405dc85db0b4"
+      },
+      "category_slug": "face-care",
+      "_id": {
+        "$oid": "6512bf23c7c8405dc85db12d"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 22,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:23:15.867Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:23:15.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512bf78c7c8405dc85db18d"
+  },
+  "name": "Garnier Pure Active",
+  "description": "<p>The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.</p><p><br></p>",
+  "price": 2,
+  "images": [
+    {
+      "public_id": "digimart/products/garnier_pure_active",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727480/digimart/products/garnier_pure_active.webp",
+      "_id": {
+        "$oid": "6512bf78c7c8405dc85db18e"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512bbfcc7c8405dc85dad1c"
+      },
+      "category_slug": "health-and-beauty",
+      "_id": {
+        "$oid": "6512bf78c7c8405dc85db18f"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512be49c7c8405dc85db0b4"
+      },
+      "category_slug": "face-care",
+      "_id": {
+        "$oid": "6512bf78c7c8405dc85db190"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 30,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:24:40.925Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:24:40.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512bfcbc7c8405dc85db1f0"
+  },
+  "name": "Nuace Men Facial Wash",
+  "description": "<p>The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.</p><p><br></p>",
+  "price": 3,
+  "images": [
+    {
+      "public_id": "digimart/products/nuage_men_facial_wash",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727562/digimart/products/nuage_men_facial_wash.webp",
+      "_id": {
+        "$oid": "6512bfcbc7c8405dc85db1f1"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512bbfcc7c8405dc85dad1c"
+      },
+      "category_slug": "health-and-beauty",
+      "_id": {
+        "$oid": "6512bfcbc7c8405dc85db1f2"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512be49c7c8405dc85db0b4"
+      },
+      "category_slug": "face-care",
+      "_id": {
+        "$oid": "6512bfcbc7c8405dc85db1f3"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 40,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:26:03.380Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:26:03.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c068c7c8405dc85db280"
+  },
+  "name": "Javarama Cafe Coffee",
+  "description": "<p>Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.</p>",
+  "price": 3,
+  "images": [
+    {
+      "public_id": "digimart/products/javarama_classic",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727719/digimart/products/javarama_classic.webp",
+      "_id": {
+        "$oid": "6512c068c7c8405dc85db281"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c068c7c8405dc85db282"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c027c7c8405dc85db26b"
+      },
+      "category_slug": "coffee",
+      "_id": {
+        "$oid": "6512c068c7c8405dc85db283"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 50,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:28:40.142Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:28:40.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c092c7c8405dc85db2e3"
+  },
+  "name": "Starbucks House Blend",
+  "description": "<p>Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.</p>",
+  "price": 4,
+  "images": [
+    {
+      "public_id": "digimart/products/starbucks_house_blend",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727762/digimart/products/starbucks_house_blend.webp",
+      "_id": {
+        "$oid": "6512c092c7c8405dc85db2e4"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c092c7c8405dc85db2e5"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c027c7c8405dc85db26b"
+      },
+      "category_slug": "coffee",
+      "_id": {
+        "$oid": "6512c092c7c8405dc85db2e6"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 50,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:29:22.949Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:29:22.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c0c8c7c8405dc85db346"
+  },
+  "name": "Starbucks Vanilla Latte",
+  "description": "<p>Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.</p>",
+  "price": 4,
+  "images": [
+    {
+      "public_id": "digimart/products/starbucks_vanilla_latte",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727815/digimart/products/starbucks_vanilla_latte.webp",
+      "_id": {
+        "$oid": "6512c0c8c7c8405dc85db347"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c0c8c7c8405dc85db348"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c027c7c8405dc85db26b"
+      },
+      "category_slug": "coffee",
+      "_id": {
+        "$oid": "6512c0c8c7c8405dc85db349"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 40,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:30:16.473Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:30:16.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c0efc7c8405dc85db3a9"
+  },
+  "name": "Teeccino Herbal Coffee Alternative",
+  "description": "<p>Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.</p>",
+  "price": 5,
+  "images": [
+    {
+      "public_id": "digimart/products/teeccino_herbal_coffee_alternative_almond_amaretto",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727854/digimart/products/teeccino_herbal_coffee_alternative_almond_amaretto.webp",
+      "_id": {
+        "$oid": "6512c0efc7c8405dc85db3aa"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c0efc7c8405dc85db3ab"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c027c7c8405dc85db26b"
+      },
+      "category_slug": "coffee",
+      "_id": {
+        "$oid": "6512c0efc7c8405dc85db3ac"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 40,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:30:55.840Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:30:55.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c152c7c8405dc85db425"
+  },
+  "name": "Dragon Energy",
+  "description": "<p>An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).</p>",
+  "price": 2,
+  "images": [
+    {
+      "public_id": "digimart/products/dragon",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727953/digimart/products/dragon.webp",
+      "_id": {
+        "$oid": "6512c152c7c8405dc85db426"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c152c7c8405dc85db427"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c125c7c8405dc85db410"
+      },
+      "category_slug": "energy-drinks",
+      "_id": {
+        "$oid": "6512c152c7c8405dc85db428"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 100,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:32:34.577Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:32:34.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c17bc7c8405dc85db488"
+  },
+  "name": "Monster Energy",
+  "description": "<p>An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).</p>",
+  "price": 1.59,
+  "images": [
+    {
+      "public_id": "digimart/products/Monster",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727994/digimart/products/Monster.webp",
+      "_id": {
+        "$oid": "6512c17bc7c8405dc85db489"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c17bc7c8405dc85db48a"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c125c7c8405dc85db410"
+      },
+      "category_slug": "energy-drinks",
+      "_id": {
+        "$oid": "6512c17bc7c8405dc85db48b"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 50,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:33:15.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:33:15.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c17cc7c8405dc85db4eb"
+  },
+  "name": "Monster Energy",
+  "description": "<p>An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).</p>",
+  "price": 1.59,
+  "images": [
+    {
+      "public_id": "digimart/products/Monster",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695727994/digimart/products/Monster.webp",
+      "_id": {
+        "$oid": "6512c17cc7c8405dc85db4ec"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c17cc7c8405dc85db4ed"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c125c7c8405dc85db410"
+      },
+      "category_slug": "energy-drinks",
+      "_id": {
+        "$oid": "6512c17cc7c8405dc85db4ee"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 50,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:33:16.137Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:33:16.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c1b8c7c8405dc85db4f1"
+  },
+  "name": "Quake Energy",
+  "description": "<p>An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).</p>",
+  "price": 1.5,
+  "images": [
+    {
+      "public_id": "digimart/products/Quake",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728055/digimart/products/Quake.webp",
+      "_id": {
+        "$oid": "6512c1b8c7c8405dc85db4f2"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c1b8c7c8405dc85db4f3"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c125c7c8405dc85db410"
+      },
+      "category_slug": "energy-drinks",
+      "_id": {
+        "$oid": "6512c1b8c7c8405dc85db4f4"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 44,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:34:16.535Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:34:16.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c1e6c7c8405dc85db554"
+  },
+  "name": "Red Bull Energy Drink",
+  "description": "<p>An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).</p>",
+  "price": 2,
+  "images": [
+    {
+      "public_id": "digimart/products/red_bull",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728101/digimart/products/red_bull.webp",
+      "_id": {
+        "$oid": "6512c1e6c7c8405dc85db555"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c1e6c7c8405dc85db556"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c125c7c8405dc85db410"
+      },
+      "category_slug": "energy-drinks",
+      "_id": {
+        "$oid": "6512c1e6c7c8405dc85db557"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 120,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:35:02.807Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:35:02.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c254c7c8405dc85db67e"
+  },
+  "name": "Iceland Tropical Juice Drink",
+  "description": "<p>Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.</p>",
+  "price": 2.5,
+  "images": [
+    {
+      "public_id": "digimart/products/iceland_tropical_juice_drink",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728211/digimart/products/iceland_tropical_juice_drink.webp",
+      "_id": {
+        "$oid": "6512c254c7c8405dc85db67f"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c254c7c8405dc85db680"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c221c7c8405dc85db667"
+      },
+      "category_slug": "juice",
+      "_id": {
+        "$oid": "6512c254c7c8405dc85db681"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 100,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:36:52.078Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:36:52.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c278c7c8405dc85db6e1"
+  },
+  "name": "Minute Maid Orange",
+  "description": "<p>Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.</p>",
+  "price": 2.22,
+  "images": [
+    {
+      "public_id": "digimart/products/minute_maid_orange",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728247/digimart/products/minute_maid_orange.webp",
+      "_id": {
+        "$oid": "6512c278c7c8405dc85db6e2"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c278c7c8405dc85db6e3"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c221c7c8405dc85db667"
+      },
+      "category_slug": "juice",
+      "_id": {
+        "$oid": "6512c278c7c8405dc85db6e4"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 40,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:37:28.539Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:37:28.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c2b8c7c8405dc85db744"
+  },
+  "name": "Nongmo Simple Apple",
+  "description": "<p>Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.</p>",
+  "price": 3,
+  "images": [
+    {
+      "public_id": "digimart/products/nongmo_simply_apple",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728312/digimart/products/nongmo_simply_apple.webp",
+      "_id": {
+        "$oid": "6512c2b8c7c8405dc85db745"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c2b8c7c8405dc85db746"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c221c7c8405dc85db667"
+      },
+      "category_slug": "juice",
+      "_id": {
+        "$oid": "6512c2b8c7c8405dc85db747"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 50,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:38:32.898Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:38:32.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c2e0c7c8405dc85db7a7"
+  },
+  "name": "Tropicana Orange",
+  "description": "<p>Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.</p>",
+  "price": 1,
+  "images": [
+    {
+      "public_id": "digimart/products/tropicana_orange_no_pulp",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728352/digimart/products/tropicana_orange_no_pulp.webp",
+      "_id": {
+        "$oid": "6512c2e0c7c8405dc85db7a8"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c2e0c7c8405dc85db7a9"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c221c7c8405dc85db667"
+      },
+      "category_slug": "juice",
+      "_id": {
+        "$oid": "6512c2e0c7c8405dc85db7aa"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 10,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:39:12.788Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:39:12.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c309c7c8405dc85db80a"
+  },
+  "name": "Tropicana Apple",
+  "description": "<p>Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.</p>",
+  "price": 2.5,
+  "images": [
+    {
+      "public_id": "digimart/products/tropicana_apple",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728392/digimart/products/tropicana_apple.webp",
+      "_id": {
+        "$oid": "6512c309c7c8405dc85db80b"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c00cc7c8405dc85db256"
+      },
+      "category_slug": "beverage",
+      "_id": {
+        "$oid": "6512c309c7c8405dc85db80c"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c221c7c8405dc85db667"
+      },
+      "category_slug": "juice",
+      "_id": {
+        "$oid": "6512c309c7c8405dc85db80d"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 41,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:39:53.203Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:39:53.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c37ec7c8405dc85db8a2"
+  },
+  "name": "Everyday Essentials Wholemeal Bread",
+  "description": "<p>Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.</p><p><br></p>",
+  "price": 2.5,
+  "images": [
+    {
+      "public_id": "digimart/products/Everyday_Essentials_Wholemeal_Bread",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728509/digimart/products/Everyday_Essentials_Wholemeal_Bread.webp",
+      "_id": {
+        "$oid": "6512c37ec7c8405dc85db8a3"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c341c7c8405dc85db870"
+      },
+      "category_slug": "breakfast",
+      "_id": {
+        "$oid": "6512c37ec7c8405dc85db8a4"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c34bc7c8405dc85db889"
+      },
+      "category_slug": "bread",
+      "_id": {
+        "$oid": "6512c37ec7c8405dc85db8a5"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 50,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:41:50.914Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:41:50.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c3a2c7c8405dc85db905"
+  },
+  "name": "Farmhouse Multigrain Batch Loaf",
+  "description": "<p>Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.</p><p><br></p>",
+  "price": 3,
+  "images": [
+    {
+      "public_id": "digimart/products/Farmhouse_Multigrain_Batch_loaf_purple_pack",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728546/digimart/products/Farmhouse_Multigrain_Batch_loaf_purple_pack.webp",
+      "_id": {
+        "$oid": "6512c3a2c7c8405dc85db906"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c341c7c8405dc85db870"
+      },
+      "category_slug": "breakfast",
+      "_id": {
+        "$oid": "6512c3a2c7c8405dc85db907"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c34bc7c8405dc85db889"
+      },
+      "category_slug": "bread",
+      "_id": {
+        "$oid": "6512c3a2c7c8405dc85db908"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 40,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:42:26.771Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:42:26.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c3d0c7c8405dc85db968"
+  },
+  "name": "Roberts Seeded Bloomer",
+  "description": "<p>Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.</p><p><br></p>",
+  "price": 4,
+  "images": [
+    {
+      "public_id": "digimart/products/roberts_Seriously_Seeded_Bloomer",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728591/digimart/products/roberts_Seriously_Seeded_Bloomer.webp",
+      "_id": {
+        "$oid": "6512c3d0c7c8405dc85db969"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c341c7c8405dc85db870"
+      },
+      "category_slug": "breakfast",
+      "_id": {
+        "$oid": "6512c3d0c7c8405dc85db96a"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c34bc7c8405dc85db889"
+      },
+      "category_slug": "bread",
+      "_id": {
+        "$oid": "6512c3d0c7c8405dc85db96b"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 40,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:43:12.205Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:43:12.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c3f8c7c8405dc85db9cb"
+  },
+  "name": "The Village Bakery Soft Wholemeal Bread",
+  "description": "<p>Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.</p><p><br></p>",
+  "price": 3,
+  "images": [
+    {
+      "public_id": "digimart/products/the_village_bakery_Soft_Wholemeal_Bread",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728631/digimart/products/the_village_bakery_Soft_Wholemeal_Bread.webp",
+      "_id": {
+        "$oid": "6512c3f8c7c8405dc85db9cc"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c341c7c8405dc85db870"
+      },
+      "category_slug": "breakfast",
+      "_id": {
+        "$oid": "6512c3f8c7c8405dc85db9cd"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c34bc7c8405dc85db889"
+      },
+      "category_slug": "bread",
+      "_id": {
+        "$oid": "6512c3f8c7c8405dc85db9ce"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 70,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:43:52.328Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:43:52.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c457c7c8405dc85dba4b"
+  },
+  "name": "Chivers Mixed Fruit Jam",
+  "description": "<p>Jam typically contains both the juice and flesh of a fruit or vegetable, although one cookbook defines it as a cooked and jelled puree. The term jam refers to a product made of whole fruit cut into pieces or crushed, then heated with water and sugar to activate its pectin before being put into containers.</p><p><br></p>",
+  "price": 4.59,
+  "images": [
+    {
+      "public_id": "digimart/products/chivers_mixed_fruit_jam",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728726/digimart/products/chivers_mixed_fruit_jam.webp",
+      "_id": {
+        "$oid": "6512c457c7c8405dc85dba4c"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c341c7c8405dc85db870"
+      },
+      "category_slug": "breakfast",
+      "_id": {
+        "$oid": "6512c457c7c8405dc85dba4d"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c418c7c8405dc85dba32"
+      },
+      "category_slug": "jam",
+      "_id": {
+        "$oid": "6512c457c7c8405dc85dba4e"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 20,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:45:27.402Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:45:27.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c477c7c8405dc85dbaae"
+  },
+  "name": "Red Jacket Raspberry Jam",
+  "description": "<p>Jam typically contains both the juice and flesh of a fruit or vegetable, although one cookbook defines it as a cooked and jelled puree. The term jam refers to a product made of whole fruit cut into pieces or crushed, then heated with water and sugar to activate its pectin before being put into containers.</p><p><br></p>",
+  "price": 5,
+  "images": [
+    {
+      "public_id": "digimart/products/red_jacket_raspberry_jam",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728758/digimart/products/red_jacket_raspberry_jam.webp",
+      "_id": {
+        "$oid": "6512c477c7c8405dc85dbaaf"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c341c7c8405dc85db870"
+      },
+      "category_slug": "breakfast",
+      "_id": {
+        "$oid": "6512c477c7c8405dc85dbab0"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c418c7c8405dc85dba32"
+      },
+      "category_slug": "jam",
+      "_id": {
+        "$oid": "6512c477c7c8405dc85dbab1"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 41,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:45:59.084Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:45:59.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c4fec7c8405dc85dbb2f"
+  },
+  "name": "Fibre 1 Crunchy Original",
+  "description": "<p>A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.</p>",
+  "price": 4,
+  "images": [
+    {
+      "public_id": "digimart/products/fibre1_crunchy_original",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728893/digimart/products/fibre1_crunchy_original.webp",
+      "_id": {
+        "$oid": "6512c4fec7c8405dc85dbb30"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c341c7c8405dc85db870"
+      },
+      "category_slug": "breakfast",
+      "_id": {
+        "$oid": "6512c4fec7c8405dc85dbb31"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c4c5c7c8405dc85dbb15"
+      },
+      "category_slug": "cereal",
+      "_id": {
+        "$oid": "6512c4fec7c8405dc85dbb32"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 200,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:48:14.154Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:48:14.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c522c7c8405dc85dbb92"
+  },
+  "name": "Trix",
+  "description": "<p>A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.</p>",
+  "price": 3.25,
+  "images": [
+    {
+      "public_id": "digimart/products/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728929/digimart/products/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.webp",
+      "_id": {
+        "$oid": "6512c522c7c8405dc85dbb93"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c341c7c8405dc85db870"
+      },
+      "category_slug": "breakfast",
+      "_id": {
+        "$oid": "6512c522c7c8405dc85dbb94"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c4c5c7c8405dc85dbb15"
+      },
+      "category_slug": "cereal",
+      "_id": {
+        "$oid": "6512c522c7c8405dc85dbb95"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 45,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:48:50.145Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:48:50.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c549c7c8405dc85dbbf5"
+  },
+  "name": "Fiber One",
+  "description": "<p>A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.</p>",
+  "price": 3,
+  "images": [
+    {
+      "public_id": "digimart/products/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695728968/digimart/products/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.webp",
+      "_id": {
+        "$oid": "6512c549c7c8405dc85dbbf6"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c341c7c8405dc85db870"
+      },
+      "category_slug": "breakfast",
+      "_id": {
+        "$oid": "6512c549c7c8405dc85dbbf7"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c4c5c7c8405dc85dbb15"
+      },
+      "category_slug": "cereal",
+      "_id": {
+        "$oid": "6512c549c7c8405dc85dbbf8"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 60,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:49:29.841Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:49:29.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c56bc7c8405dc85dbc58"
+  },
+  "name": "Post Honey Comb",
+  "description": "<p>A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.</p>",
+  "price": 5,
+  "images": [
+    {
+      "public_id": "digimart/products/post_honey_comb_cereal_12",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695729002/digimart/products/post_honey_comb_cereal_12.webp",
+      "_id": {
+        "$oid": "6512c56bc7c8405dc85dbc59"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "6512c341c7c8405dc85db870"
+      },
+      "category_slug": "breakfast",
+      "_id": {
+        "$oid": "6512c56bc7c8405dc85dbc5a"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c4c5c7c8405dc85dbb15"
+      },
+      "category_slug": "cereal",
+      "_id": {
+        "$oid": "6512c56bc7c8405dc85dbc5b"
+      }
+    }
+  ],
+  "brand": "Grocery Shop",
+  "stock": 200,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:50:03.948Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:50:03.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c774c7c8405dc85dc32e"
+  },
+  "name": "Aidan 6 Seater Dinning Table",
+  "description": "<p>A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.</p>",
+  "price": 720,
+  "images": [
+    {
+      "public_id": "digimart/products/Aftab",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695729523/digimart/products/Aftab.webp",
+      "_id": {
+        "$oid": "6512c774c7c8405dc85dc32f"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512c774c7c8405dc85dc330"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c714c7c8405dc85dc2f2"
+      },
+      "category_slug": "table",
+      "_id": {
+        "$oid": "6512c774c7c8405dc85dc331"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c742c7c8405dc85dc310"
+      },
+      "category_slug": "dining-table",
+      "_id": {
+        "$oid": "6512c774c7c8405dc85dc332"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 30,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:58:44.080Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:58:44.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c79ac7c8405dc85dc392"
+  },
+  "name": "Greyson Dinning Table",
+  "description": "<p>A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.</p>",
+  "price": 750,
+  "images": [
+    {
+      "public_id": "digimart/products/Greyson",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695729562/digimart/products/Greyson.webp",
+      "_id": {
+        "$oid": "6512c79ac7c8405dc85dc393"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512c79ac7c8405dc85dc394"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c714c7c8405dc85dc2f2"
+      },
+      "category_slug": "table",
+      "_id": {
+        "$oid": "6512c79ac7c8405dc85dc395"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c742c7c8405dc85dc310"
+      },
+      "category_slug": "dining-table",
+      "_id": {
+        "$oid": "6512c79ac7c8405dc85dc396"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 50,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T11:59:22.897Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T11:59:22.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c81dc7c8405dc85dc3f6"
+  },
+  "name": " Product gallery 488 Camelia Round Dinning Table",
+  "description": "<p>A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.</p>",
+  "price": 800,
+  "images": [
+    {
+      "public_id": "digimart/products/Camelia",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695729692/digimart/products/Camelia.webp",
+      "_id": {
+        "$oid": "6512c81dc7c8405dc85dc3f7"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512c81dc7c8405dc85dc3f8"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c714c7c8405dc85dc2f2"
+      },
+      "category_slug": "table",
+      "_id": {
+        "$oid": "6512c81dc7c8405dc85dc3f9"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c742c7c8405dc85dc310"
+      },
+      "category_slug": "dining-table",
+      "_id": {
+        "$oid": "6512c81dc7c8405dc85dc3fa"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 40,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T12:01:33.032Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T12:01:33.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c89bc7c8405dc85dc503"
+  },
+  "name": "Arlo Bedside Table",
+  "description": "<p>A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.</p>",
+  "price": 120,
+  "images": [
+    {
+      "public_id": "digimart/products/Arlo",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695729819/digimart/products/Arlo.webp",
+      "_id": {
+        "$oid": "6512c89bc7c8405dc85dc504"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512c89bc7c8405dc85dc505"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c714c7c8405dc85dc2f2"
+      },
+      "category_slug": "table",
+      "_id": {
+        "$oid": "6512c89bc7c8405dc85dc506"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c864c7c8405dc85dc4e4"
+      },
+      "category_slug": "bedside-table",
+      "_id": {
+        "$oid": "6512c89bc7c8405dc85dc507"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 50,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T12:03:39.951Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T12:03:39.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c8c2c7c8405dc85dc567"
+  },
+  "name": "Hudson Bedside Table",
+  "description": "<p>A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.</p>",
+  "price": 80,
+  "images": [
+    {
+      "public_id": "digimart/products/Hudson",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695729857/digimart/products/Hudson.webp",
+      "_id": {
+        "$oid": "6512c8c2c7c8405dc85dc568"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512c8c2c7c8405dc85dc569"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c714c7c8405dc85dc2f2"
+      },
+      "category_slug": "table",
+      "_id": {
+        "$oid": "6512c8c2c7c8405dc85dc56a"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c864c7c8405dc85dc4e4"
+      },
+      "category_slug": "bedside-table",
+      "_id": {
+        "$oid": "6512c8c2c7c8405dc85dc56b"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 40,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T12:04:18.495Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T12:04:18.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c90fc7c8405dc85dc5cb"
+  },
+  "name": "Clovelly Bedside Table",
+  "description": "<p>A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.</p>",
+  "price": 80,
+  "images": [
+    {
+      "public_id": "digimart/products/Clovelly",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695729934/digimart/products/Clovelly.webp",
+      "_id": {
+        "$oid": "6512c90fc7c8405dc85dc5cc"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512c90fc7c8405dc85dc5cd"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c714c7c8405dc85dc2f2"
+      },
+      "category_slug": "table",
+      "_id": {
+        "$oid": "6512c90fc7c8405dc85dc5ce"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c864c7c8405dc85dc4e4"
+      },
+      "category_slug": "bedside-table",
+      "_id": {
+        "$oid": "6512c90fc7c8405dc85dc5cf"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 70,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T12:05:35.699Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T12:05:35.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6512c94dc7c8405dc85dc6b6"
+  },
+  "name": "Bjorn Bedside Table",
+  "description": "<p>A table is an item of furniture with a flat top and one or more legs, used as a surface for working at, eating from or on which to place things.</p>",
+  "price": 60,
+  "images": [
+    {
+      "public_id": "digimart/products/Bjorn",
+      "url": "https://res.cloudinary.com/dewq5eyuf/image/upload/v1695729996/digimart/products/Bjorn.webp",
+      "_id": {
+        "$oid": "6512c94dc7c8405dc85dc6b7"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "651295c9c7c8405dc85d9b3f"
+      },
+      "category_slug": "furniture",
+      "_id": {
+        "$oid": "6512c94dc7c8405dc85dc6b8"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c714c7c8405dc85dc2f2"
+      },
+      "category_slug": "table",
+      "_id": {
+        "$oid": "6512c94dc7c8405dc85dc6b9"
+      }
+    },
+    {
+      "category_id": {
+        "$oid": "6512c864c7c8405dc85dc4e4"
+      },
+      "category_slug": "bedside-table",
+      "_id": {
+        "$oid": "6512c94dc7c8405dc85dc6ba"
+      }
+    }
+  ],
+  "brand": "Furniture Shop",
+  "stock": 20,
+  "totalReviews": 0,
+  "ratings": {
+    "rating1": 0,
+    "rating2": 0,
+    "rating3": 0,
+    "rating4": 0,
+    "rating5": 0
+  },
+  "avgRating": 0,
+  "user": {
+    "$oid": "65124f936d6d09316d8d9457"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-26T12:06:37.808Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-26T12:06:37.808Z"
+  },
+  "__v": 0
+}]

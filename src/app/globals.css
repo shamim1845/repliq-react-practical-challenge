@@ -74,10 +74,6 @@
     @apply bg-background text-foreground;
   }
 
-  main {
-    @apply w-full max-w-5xl m-auto px-5;
-  }
-
   .phoneNumberInput {
     @apply relative;
   }
