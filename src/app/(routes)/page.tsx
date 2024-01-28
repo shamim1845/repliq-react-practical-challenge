@@ -1,6 +1,6 @@
 import HomeCarousel from "@/components/HomeCarousel";
-import CategoryCarousel from "./CategoryCarousel";
-import HowItWorks from "./HowItWorks";
+import CategoryCarousel from "./_homeComponents/CategoryCarousel";
+import HowItWorks from "./_homeComponents/HowItWorks";
 
 export default function Home() {
   return (

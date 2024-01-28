@@ -6,7 +6,7 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className="bg-gray-100">
       <div className="container flex flex-col items-start  sm:flex-row sm:flex-wrap sm:justify-between gap-14  py-16">
         <div className="flex flex-col gap-10">
           <Image src={Logo} alt="logo" />
