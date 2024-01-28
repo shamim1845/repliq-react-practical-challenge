@@ -26,7 +26,7 @@ const page = async ({ searchParams }: { searchParams: SearchParamsProps }) => {
             <FilterBox searchParams={searchParams} />
           </div>
           <div className="md:hidden">
-            <FilterBoxDrawer />
+            <FilterBoxDrawer searchParams={searchParams} />
           </div>
         </div>
 

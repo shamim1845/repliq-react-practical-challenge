@@ -4,8 +4,13 @@ import { Button } from "@/components/ui/button";
 import { Drawer, DrawerContent, DrawerTrigger } from "@/components/ui/drawer";
 import { AlignStartVertical } from "lucide-react";
 import FilterBox from "./FilterBox";
+import { SearchParamsProps } from "../page";
 
-export default function FilterBoxDrawer() {
+export default function FilterBoxDrawer({
+  searchParams,
+}: {
+  searchParams: SearchParamsProps;
+}) {
   return (
     <Drawer>
       <DrawerTrigger asChild>
@@ -15,7 +20,7 @@ export default function FilterBoxDrawer() {
       </DrawerTrigger>
       <DrawerContent>
         <div>
-          <FilterBox />
+          <FilterBox searchParams={searchParams} />
         </div>
       </DrawerContent>
     </Drawer>
