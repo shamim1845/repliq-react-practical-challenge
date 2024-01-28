@@ -3,9 +3,10 @@ import { Input } from "@/components/ui/input";
 import { ProductType } from "@/lib/types/ProductType";
 import { formatMoney } from "@/lib/utils";
 import React from "react";
+import AddToCart from "./AddToCart";
 
 const ProductInformation = ({
-  product: { images, name, price, brand },
+  product: { images, name, price, brand, stock },
 }: {
   product: ProductType;
 }) => {
@@ -25,14 +26,11 @@ const ProductInformation = ({
       <div>
         <span className="font-bold text-2xl">{formatMoney(price)}</span>
       </div>
-
-      <div className="flex">
-        <div>
-          <Input type="number" />
-        </div>
-        <div>
-          <Button>Add To Cart</Button>
-        </div>
+      <div>
+        <span className="text-sm">Stock :</span> <span>{stock}</span>
+      </div>
+      <div>
+        <AddToCart />
       </div>
     </div>
   );

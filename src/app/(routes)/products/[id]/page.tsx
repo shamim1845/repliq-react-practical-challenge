@@ -12,7 +12,7 @@ const page = async ({ params }: { params: { id: string } }) => {
   return (
     <main>
       <div className="container">
-        <div className="flex gap-10">
+        <div className="flex flex-col gap-10">
           {/* Product Image Carousel */}
           <div className="flex-1">
             <ProductImageCarousel product={product} />

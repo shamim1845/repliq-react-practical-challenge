@@ -1,6 +1,6 @@
 import React from "react";
-import { ProductType } from "@/assets/data/ProductType";
 import SingleProduct from "./SingleProduct";
+import { ProductType } from "@/lib/types/ProductType";
 
 const ProductList = ({ products }: { products: ProductType[] }) => {
   return (
