@@ -1,7 +1,10 @@
+import { connectDb } from "@/lib/db/connectDB";
 import { User } from "@/lib/db/models/user";
 import bcrypt from "bcrypt";
 
 export async function POST(req: Request, res: Response) {
+  connectDb();
+
   const { name, phone, password } = await req.json();
 
   if (!name || !phone || !password) {

@@ -1,10 +1,13 @@
 import { getToken } from "@/lib/auth";
+import { connectDb } from "@/lib/db/connectDB";
 import { User } from "@/lib/db/models/user";
 import bcrypt from "bcrypt";
 import { cookies } from "next/headers";
 import { NextResponse } from "next/server";
 
 export async function POST(req: Request, res: NextResponse) {
+  connectDb();
+
   const { phone, password } = await req.json();
 
   if (!phone || !password) {

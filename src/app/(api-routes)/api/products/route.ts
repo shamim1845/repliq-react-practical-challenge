@@ -4,6 +4,8 @@ import { Product } from "@/lib/db/models/productModel";
 import { ApiFeatures } from "@/lib/db/_utils/apiFeatures";
 
 export async function GET(req: NextRequest, res: NextResponse) {
+  connectDb();
+
   const url = new URL(req.url);
 
   const keyword = url.searchParams.get("keyword") || "";
@@ -14,8 +16,6 @@ export async function GET(req: NextRequest, res: NextResponse) {
   const price_lte = url.searchParams.get("price[lte]");
 
   const resultPerPage = limit ? parseInt(limit) : 10;
-
-  connectDb();
 
   const queryString = {
     ...(keyword && { keyword }),
