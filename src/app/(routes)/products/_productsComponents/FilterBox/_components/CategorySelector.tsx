@@ -12,7 +12,7 @@ const CategorySelector = ({
   categories: string[];
   searchParams: SearchParamsProps;
 }) => {
-  const [currentCategory, setCurrentCategory] = useState("");
+  const [currentCategory, setCurrentCategory] = useState(searchParams.category);
 
   const handlecategoryChange = (checked: boolean, category: string) => {
     setCurrentCategory(checked ? category : "");
