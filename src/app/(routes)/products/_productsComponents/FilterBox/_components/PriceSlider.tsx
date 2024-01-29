@@ -5,8 +5,14 @@ import { handleSliderAction } from "@/lib/actions/action";
 import React, { useState } from "react";
 import { SearchParamsProps } from "../../../page";
 
-const PriceSlider = ({ searchParams }: { searchParams: SearchParamsProps }) => {
-  const [val, setValue] = useState([0, 10000]);
+const PriceSlider = ({
+  searchParams,
+  price: { max = 100000 },
+}: {
+  searchParams: SearchParamsProps;
+  price: { min: number; max: number };
+}) => {
+  const [val, setValue] = useState([0, max]);
 
   const handleSlider = (val: number[]) => {
     setValue(val);
@@ -24,7 +30,7 @@ const PriceSlider = ({ searchParams }: { searchParams: SearchParamsProps }) => {
 
       <Slider
         defaultValue={val}
-        max={10000}
+        max={max}
         step={2}
         className="w-full"
         onValueChange={(val) => setValue(val)}

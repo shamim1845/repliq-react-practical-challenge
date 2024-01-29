@@ -1,25 +1,22 @@
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
 import { ProductType } from "@/lib/types/ProductType";
 import { formatMoney } from "@/lib/utils";
 import React from "react";
 import AddToCart from "./AddToCart";
+import ProductRatingViewer from "./ProductRatingViewer";
 
-const ProductInformation = ({
-  product: { images, name, price, brand, stock },
-}: {
-  product: ProductType;
-}) => {
+const ProductInformation = ({ product }: { product: ProductType }) => {
+  const { name, price, brand, stock, avgRating } = product;
   return (
     <div className="space-y-5">
-      <div>
+      <div className="space-y-1">
         <h1 className="text-3xl font-bold">{name}</h1>
+
         <div>
-          <div>rating</div>
-          <div className="text-sm text-gray-500">
-            <span>Brand :</span>
-            <span>{brand}</span>
-          </div>
+          <ProductRatingViewer rating={avgRating} />
+        </div>
+        <div className="text-sm text-gray-500">
+          <span>Brand :</span>
+          <span>{brand}</span>
         </div>
       </div>
 
@@ -30,7 +27,7 @@ const ProductInformation = ({
         <span className="text-sm">Stock :</span> <span>{stock}</span>
       </div>
       <div>
-        <AddToCart />
+        <AddToCart stock={stock} product={product} />
       </div>
     </div>
   );

@@ -7,12 +7,12 @@ import { getProduct } from "@/lib/fetch/getProduct";
 
 const page = async ({ params }: { params: { id: string } }) => {
   const product = await getProduct(params.id);
-  console.log(product);
+  // console.log(product);
 
   return (
     <main>
-      <div className="container">
-        <div className="flex flex-col gap-10">
+      <div className="container space-y-10">
+        <div className="flex flex-col gap-10 sm:flex-row md:gap-20">
           {/* Product Image Carousel */}
           <div className="flex-1">
             <ProductImageCarousel product={product} />
@@ -28,7 +28,7 @@ const page = async ({ params }: { params: { id: string } }) => {
         </div>
         {/* Related Products */}
         <div>
-          <RelatedProducts />
+          <RelatedProducts category={product.categories[0].category_slug} />
         </div>
       </div>
     </main>

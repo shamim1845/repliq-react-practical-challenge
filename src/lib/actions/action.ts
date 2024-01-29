@@ -35,13 +35,15 @@ export const handleCategoryCheckedAction = (
   formData: FormData,
   searchParams: SearchParamsProps
 ) => {
-  const category = formData.get("category");
+  const category = formData.get("category") || "";
 
   const searchString = generateSearchParams({
     ...searchParams,
-    ...(category && { category: category.toString() }),
+    ...{ category: category.toString() },
     page: "",
   });
 
   redirect(`/products?${searchString}`);
 };
+
+//

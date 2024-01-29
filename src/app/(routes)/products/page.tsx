@@ -14,8 +14,6 @@ export interface SearchParamsProps {
 }
 
 const page = async ({ searchParams }: { searchParams: SearchParamsProps }) => {
-  console.log(searchParams);
-
   const { products, totalProducts } = await getProducts(searchParams);
 
   return (

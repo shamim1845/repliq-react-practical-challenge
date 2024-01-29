@@ -7,11 +7,22 @@ import {
 } from "@/components/ui/card";
 import { TabsContent } from "@/components/ui/tabs";
 import * as z from "zod";
-import AuthForm, { formSchema } from "./AuthForm";
+import RegisterForm, { formSchema } from "./RegisterForm";
+import { toast } from "sonner";
+import { useRouter } from "next/navigation";
+import axios from "axios";
 
 const Register = () => {
-  function onSubmit(values: z.infer<typeof formSchema>) {
-    console.log(values);
+  const router = useRouter();
+
+  async function onSubmit(values: z.infer<typeof formSchema>) {
+    const res = await axios.post(`/api/auth/register`, values);
+
+    if (res.status === 201 && res.data.user) {
+      router.replace("/auth?tab=login");
+    }
+
+    toast(res.data.message);
   }
 
   return (
@@ -24,7 +35,7 @@ const Register = () => {
           </CardDescription>
         </CardHeader>
         <CardContent className="space-y-2">
-          <AuthForm onSubmit={onSubmit} />
+          <RegisterForm onSubmit={onSubmit} />
         </CardContent>
       </Card>
     </TabsContent>

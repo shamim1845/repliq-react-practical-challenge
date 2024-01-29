@@ -22,7 +22,7 @@ export const formSchema = z.object({
   }),
 });
 
-const AuthForm = ({
+const LoginForm = ({
   onSubmit,
 }: {
   onSubmit: (values: z.infer<typeof formSchema>) => void;
@@ -75,4 +75,4 @@ const AuthForm = ({
   );
 };
 
-export default AuthForm;
+export default LoginForm;

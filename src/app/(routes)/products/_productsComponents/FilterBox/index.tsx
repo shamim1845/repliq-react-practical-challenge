@@ -4,6 +4,7 @@ import { getCategories } from "@/lib/fetch/getCategories";
 import { SearchParamsProps } from "../../page";
 import CategorySelector from "./_components/CategorySelector";
 import ClearFilterBtn from "./_components/ClearFilterBtn";
+import { getMaxMinPrice } from "@/lib/fetch/getMaxMinPrice";
 
 const FilterBox = async ({
   searchParams,
@@ -11,11 +12,13 @@ const FilterBox = async ({
   searchParams: SearchParamsProps;
 }) => {
   const { categories } = await getCategories();
+  const { price } = await getMaxMinPrice();
+  console.log(price);
 
   return (
     <div className="p-5 w-[12rem] ">
       <div className="space-y-5">
-        <PriceSlider searchParams={searchParams} />
+        <PriceSlider searchParams={searchParams} price={price} />
       </div>
       <Separator className="my-8" />
       <div className="space-y-5">

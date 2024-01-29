@@ -18,7 +18,7 @@ const CategorySelector = ({
     setCurrentCategory(checked ? category : "");
 
     const formData = new FormData();
-    formData.append("category", category);
+    formData.append("category", checked ? category : "");
 
     handleCategoryCheckedAction(formData, searchParams);
   };

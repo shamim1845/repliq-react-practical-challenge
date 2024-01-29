@@ -18,35 +18,37 @@ export default function ProductImageCarousel({
   product: ProductType;
 }) {
   return (
-    <Carousel
-      opts={{
-        loop: true,
-        align: "center",
-      }}
-      plugins={[Autoplay()]}
-      className="w-full"
-    >
-      <CarouselContent>
-        {images?.map((image) => (
-          <CarouselItem key={image?._id}>
-            <div className="p-1">
-              <Card>
-                <CardContent className="flex aspect-square items-center justify-center p-6">
-                  <Image
-                    src={image.url}
-                    alt={name}
-                    width={500}
-                    height={500}
-                    className="w-full"
-                  />
-                </CardContent>
-              </Card>
-            </div>
-          </CarouselItem>
-        ))}
-      </CarouselContent>
-      <CarouselPrevious />
-      <CarouselNext />
-    </Carousel>
+    <div className=" px-5">
+      <Carousel
+        opts={{
+          loop: true,
+          align: "center",
+        }}
+        plugins={[Autoplay()]}
+        className="w-full"
+      >
+        <CarouselContent>
+          {images?.map((image) => (
+            <CarouselItem key={image?._id}>
+              <div className="p-1">
+                <Card>
+                  <CardContent className="flex aspect-square items-center justify-center p-6">
+                    <Image
+                      src={image.url}
+                      alt={name}
+                      width={500}
+                      height={500}
+                      className="w-full"
+                    />
+                  </CardContent>
+                </Card>
+              </div>
+            </CarouselItem>
+          ))}
+        </CarouselContent>
+        <CarouselPrevious />
+        <CarouselNext />
+      </Carousel>
+    </div>
   );
 }

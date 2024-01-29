@@ -1,11 +1,11 @@
 import Link from "next/link";
 import SideMenu from "./SideMenu";
 import Cart from "./Cart";
-import Favourite from "./Favourite";
 import BottomNavigationMenu from "./BottomNavigationMenu";
 import SearchBox from "./SearchBox";
 import Logo from "@/assets/logo.svg";
 import Image from "next/image";
+import { User } from "lucide-react";
 
 const Header = () => {
   return (
@@ -20,10 +20,13 @@ const Header = () => {
           <SearchBox className="max-w-[400px] hidden md:block" />
         </div>
         <div className="flex items-center gap-5">
-          {/* Favourite cart */}
-          <Favourite />
+          {/* Auth */}
+          <Link href="/auth" title="Login/Register">
+            <User />
+          </Link>
           {/* Shopping cart */}
           <Cart />
+
           <SideMenu />
         </div>
       </div>
