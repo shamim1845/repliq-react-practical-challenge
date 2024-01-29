@@ -4,9 +4,11 @@ import AuthTabs from "./_components/AuthTabs";
 const Auth = () => {
   return (
     <main>
-      <Suspense>
-        <AuthTabs />
-      </Suspense>
+      <div className="container">
+        <Suspense>
+          <AuthTabs />
+        </Suspense>
+      </div>
     </main>
   );
 };

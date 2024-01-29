@@ -6,8 +6,11 @@ import SearchBox from "./SearchBox";
 import Logo from "@/assets/logo.svg";
 import Image from "next/image";
 import { User } from "lucide-react";
+import { getCategories } from "@/lib/fetch/getCategories";
 
-const Header = () => {
+const Header = async () => {
+  const { categories } = await getCategories();
+
   return (
     <div className="container py-5 space-y-5">
       <div className="flex items-center justify-between gap-5">
@@ -30,7 +33,7 @@ const Header = () => {
           <SideMenu />
         </div>
       </div>
-      <BottomNavigationMenu />
+      <BottomNavigationMenu categories={categories} />
     </div>
   );
 };

@@ -15,7 +15,12 @@ export async function POST(req: Request, res: Response) {
     );
   }
 
-  const userExist = await User.findOne({ phone: phone });
+  let userExist;
+  try {
+    userExist = await User.findOne({ phone: phone });
+  } catch (error) {
+    console.log(error);
+  }
 
   if (userExist) {
     return Response.json({

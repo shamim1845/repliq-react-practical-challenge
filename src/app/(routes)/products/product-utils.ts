@@ -91,8 +91,7 @@ export const useGetCartItems = () => {
     const subTotal = cartItems?.reduce((acc, curr) => {
       return acc + curr.product.price * curr.quantity;
     }, 0);
-
-    if (subTotal) setTotalPrice(subTotal);
+    setTotalPrice(subTotal || 0);
   }, [cartItems]);
 
   return { cartItems, totalCartItems: cartItems?.length, totalPrice };

@@ -16,13 +16,18 @@ const Register = () => {
   const router = useRouter();
 
   async function onSubmit(values: z.infer<typeof formSchema>) {
-    const res = await axios.post(`/api/auth/register`, values);
+    try {
+      const res = await axios.post(`/api/auth/register`, values);
 
-    if (res.status === 201 && res.data.user) {
-      router.replace("/auth?tab=login");
+      if (res.status === 201 && res.data.user) {
+        router.replace("/auth?tab=login");
+      }
+
+      toast(res.data.message);
+    } catch (error: any) {
+      console.log(error);
+      if (error) toast(error?.response?.data?.message);
     }
-
-    toast(res.data.message);
   }
 
   return (

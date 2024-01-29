@@ -1,9 +1,10 @@
+import { getToken } from "@/lib/auth";
 import { User } from "@/lib/db/models/user";
 import bcrypt from "bcrypt";
-import jwt from "jsonwebtoken";
 import { cookies } from "next/headers";
+import { NextResponse } from "next/server";
 
-export async function POST(req: Request, res: Response) {
+export async function POST(req: Request, res: NextResponse) {
   const { phone, password } = await req.json();
 
   if (!phone || !password) {
@@ -17,10 +18,17 @@ export async function POST(req: Request, res: Response) {
     );
   }
 
-  const user = await User.findOne({ phone: phone });
+  let user;
+  try {
+    user = await User.findOne({ phone: phone });
+  } catch (error) {
+    console.log(error);
+  }
+
+  console.log(user);
 
   if (!user) {
-    return Response.json(
+    return NextResponse.json(
       {
         message: "User not exist with this phone number.",
       },
@@ -37,8 +45,7 @@ export async function POST(req: Request, res: Response) {
     });
   }
 
-  const secret = process.env.JWT_SECREAT as string;
-  const token = jwt.sign({ data: user }, secret, { expiresIn: "1h" });
+  const token = await getToken();
 
   cookies().set("token", token);
 

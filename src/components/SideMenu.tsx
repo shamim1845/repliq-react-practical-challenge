@@ -1,21 +1,10 @@
+"use client";
 import {
   AlignRight,
   CircleUser,
-  Cloud,
-  CreditCard,
-  Github,
-  Keyboard,
   LayoutDashboard,
   LifeBuoy,
   LogOut,
-  Mail,
-  MessageSquare,
-  Plus,
-  PlusCircle,
-  Settings,
-  User,
-  UserPlus,
-  Users,
 } from "lucide-react";
 
 import {
@@ -24,17 +13,16 @@ import {
   DropdownMenuGroup,
   DropdownMenuItem,
   DropdownMenuLabel,
-  DropdownMenuPortal,
   DropdownMenuSeparator,
-  DropdownMenuShortcut,
-  DropdownMenuSub,
-  DropdownMenuSubContent,
-  DropdownMenuSubTrigger,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import Link from "next/link";
+import axios from "axios";
+import { toast } from "sonner";
+import { useRouter } from "next/navigation";
 
 export function SideMenu() {
+  const router = useRouter();
   return (
     <DropdownMenu>
       <DropdownMenuTrigger title="Shorcut menu">
@@ -65,7 +53,14 @@ export function SideMenu() {
           <span>Support</span>
         </DropdownMenuItem>
         <DropdownMenuSeparator />
-        <DropdownMenuItem>
+        <DropdownMenuItem
+          onClick={async () => {
+            const res = await axios.delete("/api/auth/logout");
+            console.log(res);
+            toast(res.data.message);
+            router.replace("/");
+          }}
+        >
           <LogOut className="mr-2 h-4 w-4" />
           <span>Log out</span>
         </DropdownMenuItem>

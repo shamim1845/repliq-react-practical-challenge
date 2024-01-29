@@ -16,13 +16,18 @@ const Login = () => {
   const router = useRouter();
 
   async function onSubmit(values: z.infer<typeof formSchema>) {
-    const res = await axios.post(`/api/auth/login`, values);
+    try {
+      const res = await axios.post(`/api/auth/login`, values);
 
-    if (res.status === 200 && res.data.user) {
-      router.replace("/products");
+      if (res.status === 200 && res.data.user) {
+        router.replace("/products");
+      }
+
+      toast(res.data.message);
+    } catch (error: any) {
+      console.log(error);
+      if (error) toast(error?.response?.data?.message);
     }
-
-    toast(res.data.message);
   }
 
   return (
