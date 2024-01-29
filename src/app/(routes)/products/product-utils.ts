@@ -79,11 +79,9 @@ export const useGetCartItems = () => {
 
     setCartItems(shoppingCart.value);
 
-    return () => {
-      shoppingCart.subscribe((carts) => {
-        setCartItems(carts);
-      });
-    };
+    shoppingCart.subscribe((carts) => {
+      setCartItems(carts);
+    });
   }, []);
 
   // Calculate subTotal price
