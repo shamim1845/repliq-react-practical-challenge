@@ -2,6 +2,10 @@ import { connectDb } from "@/lib/db/connectDB";
 import { NextRequest, NextResponse } from "next/server";
 import { Product } from "@/lib/db/models/productModel";
 import { ApiFeatures } from "@/lib/db/_utils/apiFeatures";
+import { verifyAuth } from "@/lib/auth";
+import { jwtVerify } from "jose";
+import mongoose from "mongoose";
+import { cookies } from "next/headers";
 
 export async function GET(req: NextRequest, res: NextResponse) {
   connectDb();
@@ -59,4 +63,75 @@ export async function GET(req: NextRequest, res: NextResponse) {
     totalProducts: productCount,
     products,
   });
+}
+
+export async function POST(req: Request) {
+  try {
+    connectDb();
+
+    // Get token from cookies
+    const token = cookies().get("token")?.value;
+    if (!token) {
+      return NextResponse.json(
+        { message: "Unauthorized" },
+        { status: 401 }
+      );
+    }
+
+    // Verify token and get user ID
+    const secret = new TextEncoder().encode(process.env.JWT_SECREAT);
+    const { payload } = await jwtVerify(token, secret);
+    const userId = payload.jti;
+
+    if (!userId || typeof userId !== 'string') {
+      return NextResponse.json(
+        { message: "Invalid token" },
+        { status: 401 }
+      );
+    }
+
+    // Validate if userId is a valid ObjectId
+    if (!mongoose.Types.ObjectId.isValid(userId)) {
+      return NextResponse.json(
+        { message: "Invalid user ID format" },
+        { status: 400 }
+      );
+    }
+
+    const body = await req.json();
+    const { name, description, price, stock, brand, images } = body;
+
+    // Validate required fields
+    if (!name || !description || !price || !stock || !images?.length) {
+      return NextResponse.json(
+        { message: "Missing required fields" },
+        { status: 400 }
+      );
+    }
+
+    // Create product
+    const product = await Product.create({
+      name,
+      description,
+      price,
+      stock,
+      brand,
+      images: images.map((url: string) => ({
+        public_id: url, // You might want to handle image upload to cloud storage
+        url,
+      })),
+      user: new mongoose.Types.ObjectId(userId), // Convert to ObjectId
+    });
+
+    return NextResponse.json(
+      { message: "Product created successfully", product },
+      { status: 201 }
+    );
+  } catch (error: any) {
+    console.error("Error creating product:", error);
+    return NextResponse.json(
+      { message: error.message || "Error creating product" },
+      { status: 500 }
+    );
+  }
 }

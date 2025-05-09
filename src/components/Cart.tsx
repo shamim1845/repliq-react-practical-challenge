@@ -19,12 +19,21 @@ import Image from "next/image";
 import { formatMoney } from "@/lib/utils";
 import IncreaseOrDecreaseCartItem from "@/app/(routes)/products/[id]/_components/IncreaseOrDecreaseCartItem";
 import { Button } from "./ui/button";
+import { useRouter } from "next/navigation";
+import { useState } from "react";
 
 const Cart = () => {
+  const router = useRouter();
   const { cartItems, totalCartItems, totalPrice } = useGetCartItems();
+  const [isOpen, setIsOpen] = useState(false);
+
+  const handleCheckout = () => {
+    setIsOpen(false);
+    router.push("/checkout");
+  };
 
   return (
-    <Sheet>
+    <Sheet open={isOpen} onOpenChange={setIsOpen}>
       <SheetTrigger className="relative" title="Your Cart">
         <ShoppingCart className="cursor-pointer" />
         <Badge
@@ -91,6 +100,7 @@ const Cart = () => {
               <Button
                 disabled={totalPrice === 0}
                 className="w-full bg-brandPrimary"
+                onClick={handleCheckout}
               >
                 Proceed to checkout
               </Button>

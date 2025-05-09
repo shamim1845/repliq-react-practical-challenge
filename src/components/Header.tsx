@@ -7,8 +7,10 @@ import Logo from "@/assets/logo.svg";
 import Image from "next/image";
 import { User } from "lucide-react";
 import { getCategories } from "@/lib/fetch/getCategories";
+import { unstable_noStore as noStore } from "next/cache";
 
 const Header = async () => {
+  noStore();
   const { categories } = await getCategories();
 
   return (

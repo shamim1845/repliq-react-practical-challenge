@@ -68,6 +68,12 @@ export const RemoveFromCartHandler = (productId: string) => {
   shoppingCart.next(cartItems);
 };
 
+// Clear all cart items
+export const clearCart = () => {
+  localStorage.removeItem("cartItems");
+  shoppingCart.next(null);
+};
+
 // => Custom Hooks
 export const useGetCartItems = () => {
   const [cartItems, setCartItems] = useState<CartProps[] | null>([]);

@@ -4,6 +4,8 @@ import { User } from "@/lib/db/models/user";
 import bcrypt from "bcrypt";
 import { cookies } from "next/headers";
 import { NextResponse } from "next/server";
+import { SignJWT } from "jose";
+import mongoose from "mongoose";
 
 export async function POST(req: Request, res: NextResponse) {
   connectDb();
@@ -48,7 +50,25 @@ export async function POST(req: Request, res: NextResponse) {
     });
   }
 
-  const token = await getToken();
+  // Ensure user._id is a valid ObjectId
+  if (!mongoose.Types.ObjectId.isValid(user._id)) {
+    return NextResponse.json(
+      {
+        message: "Invalid user ID format.",
+      },
+      {
+        status: 500,
+      }
+    );
+  }
+
+  // Create token with user ID
+  const token = await new SignJWT({})
+    .setProtectedHeader({ alg: "HS256" })
+    .setJti(user._id.toString()) // Use actual user ID
+    .setIssuedAt()
+    .setExpirationTime("2h")
+    .sign(new TextEncoder().encode(process.env.JWT_SECREAT));
 
   cookies().set("token", token);
 
@@ -56,7 +76,11 @@ export async function POST(req: Request, res: NextResponse) {
     {
       message: "Login successfull.",
       token,
-      user,
+      user: {
+        _id: user._id,
+        name: user.name,
+        phone: user.phone
+      }
     },
     { status: 200 }
   );

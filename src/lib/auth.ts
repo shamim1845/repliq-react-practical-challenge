@@ -7,7 +7,7 @@ interface UserJwtPayload {
   iat: number;
 }
 
-export class AuthError extends Error {}
+export class AuthError extends Error { }
 
 const secret = process.env.JWT_SECREAT as string;
 
@@ -28,7 +28,7 @@ export async function verifyAuth(req: NextRequest) {
 }
 
 /**
- * Adds the user token cookie to a response.
+ * Gets the token from cookies
  */
 export async function getToken() {
   const token = await new SignJWT({})

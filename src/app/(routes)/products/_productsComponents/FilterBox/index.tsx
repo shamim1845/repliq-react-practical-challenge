@@ -5,12 +5,15 @@ import { SearchParamsProps } from "../../page";
 import CategorySelector from "./_components/CategorySelector";
 import ClearFilterBtn from "./_components/ClearFilterBtn";
 import { getMaxMinPrice } from "@/lib/fetch/getMaxMinPrice";
+import { unstable_noStore as noStore } from "next/cache";
 
 const FilterBox = async ({
   searchParams,
 }: {
   searchParams: SearchParamsProps;
 }) => {
+  noStore();
+
   const { categories } = await getCategories();
   const { price } = await getMaxMinPrice();
   console.log(price);
